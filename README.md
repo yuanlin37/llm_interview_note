@@ -18,7 +18,7 @@
 
 ## 在线阅读
 
-在线阅读链接：[LLMs Interview Note](http://wdndev.github.io/llm_interview_note)
+在线阅读链接：[LLMs Interview Note](http://yuanlin37.github.io/llm_interview_note)
 
 
 ## 注意：
